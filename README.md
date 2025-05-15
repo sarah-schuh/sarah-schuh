@@ -2,6 +2,7 @@
 - 🌟 Just starting my coding adventure—feels like I'm stepping into a vast, unknown digital universe.
 - 🤔 I'm currently fascinated by the puzzle of shoe sizes and how they translate globally. If you have ideas on clustering and unifying shoe size conversions, maybe we could brainstorm together?
 - 📫 Feel free to send me a private message if you’d like to chat—I'm here to learn and collaborate!
+- 🧩 I’m also passionate about making complex data easy to understand—turning confusing tables into clear, useful insights is my kind of challenge!
 - 😊 Pronouns: She/Her
 - 📚 Fun fact: I love to unwind with a little boogie-woogie in my dancing shoes—it's like coding, but with feet!
 
